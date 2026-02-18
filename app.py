@@ -25,7 +25,7 @@ with st.sidebar:
     # 密码输入框
     secret_pass = st.text_input("请输入访问密码", type="password")
     
-    st.info("💡 为什么要收费？\n因为集成了昂贵的 DeepSeek-V3 商业版模型，确保生成的公文最地道。")
+    st.info("💡 为什么要收费？\n因为集成了昂贵的 DeepSeek-V3 商业版模型，确保生成的商务邮件最地道。")
 
 # ==========================================
 # 3. 逻辑判断
